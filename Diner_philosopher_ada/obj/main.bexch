@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\.adaProject\Lab4\diner_philosopher_ada.gpr
+20240426010840 b11baf898dd0b71884ddd1ae55a7575e
+[BOUND OBJECT FILES]
+C:\.adaProject\Lab4\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\.adaProject\Lab4\obj\
+-LC:\.adaProject\Lab4\obj\
+-LC:/gnat/data/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/data/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/data/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
